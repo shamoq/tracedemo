@@ -1,0 +1,6 @@
+@RougamoDemo_HostAddress = http://localhost:5225
+
+GET {{RougamoDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

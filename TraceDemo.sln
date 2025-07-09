@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectCoreDemo", "AspectCoreDemo\AspectCoreDemo.csproj", "{F52D260C-159A-4005-93EA-6A8AC5D396FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RougamoDemo", "RougamoDemo\RougamoDemo.csproj", "{3524BC6C-E922-4E2D-995B-753E28490769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceDemo", "TraceDemo\TraceDemo.csproj", "{95872EB5-2AFB-4D5F-A599-0352D6BB2741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52D260C-159A-4005-93EA-6A8AC5D396FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52D260C-159A-4005-93EA-6A8AC5D396FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52D260C-159A-4005-93EA-6A8AC5D396FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52D260C-159A-4005-93EA-6A8AC5D396FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3524BC6C-E922-4E2D-995B-753E28490769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3524BC6C-E922-4E2D-995B-753E28490769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3524BC6C-E922-4E2D-995B-753E28490769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3524BC6C-E922-4E2D-995B-753E28490769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95872EB5-2AFB-4D5F-A599-0352D6BB2741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95872EB5-2AFB-4D5F-A599-0352D6BB2741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95872EB5-2AFB-4D5F-A599-0352D6BB2741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95872EB5-2AFB-4D5F-A599-0352D6BB2741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
