@@ -75,7 +75,7 @@ namespace RougamoDemo.Core
 
 ```
 
-运行即可，私有方法也可以被代理
+运行即可，私有方法不能被代理
 
 
 ![](img/README_1752048905.png)
